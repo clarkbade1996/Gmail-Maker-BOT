@@ -1,0 +1,6 @@
+settings:
+  browser_thread: 5 #Enter Browser Thread
+  use_proxy: 217.169.220.183:6666
+  proxy_protocol: "HTTP" # HTTP / SOCKS5
+  account_count: 10 # JUMLAH AKUN YANG INGIN ANDA HASILKAN
+  api_key: "" # https://smsbower.net/
